@@ -4,4 +4,3 @@ console.log("Testar retornar ao projeto anterior1 ")
 console.log("Testar retornar ao projeto anterior2 ")
 
 console.log("Retorne aqui 1")
-console.log("Retorne aqui 2")
